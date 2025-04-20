@@ -52,6 +52,5 @@ L’ho iniziato dopo appena due settimane di studio, per mettere subito in prati
 
 ## 🔗 Link utili
 
-- [Kaggle Notebook](INSERISCI-LINK-QUI)
-- [Dataset originale](INSERISCI-LINK-DATASET-KAGGLE)
+- [Kaggle Notebook](https://www.kaggle.com/code/stefano1121/social-media-and-mental-health)
 
